@@ -203,7 +203,7 @@ export const managers = [
     },
     {
       "roster": 9,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "name": "Benjamin Hester",
+      "name": "Benjamin Hester ",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Riverview, FL", // (optional)
       "bio": "Philly fan in football only. (Go Rays! Go Lightning!)",
